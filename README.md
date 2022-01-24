@@ -1,24 +1,20 @@
-# clientstradata
+# Cliente Prueba Atradata
 
-## Project setup
-```
+Repositorio contenedor de la aplicación web (FrontEnd)
+
+## Instalacion
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Uso
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Credenciales
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Correo electrónico: jspinzonr@misena.edu.co
+#### ​Contraseña: 123456789

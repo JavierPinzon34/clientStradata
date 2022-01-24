@@ -45,10 +45,9 @@
     data() {
       return {
         form: {
-          email: '',
-          password: '',
+          email: 'jspinzonr@misena.edu.co',
+          password: '123456789',
         },
-        foods: [{ text: 'Select One', value: null }, 'Carrots', 'Beans', 'Tomatoes', 'Corn'],
         show: true
       }
     },
